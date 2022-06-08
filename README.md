@@ -12,6 +12,12 @@ Some information about me:
 - 💬 Ask me about Python and Dart
 - 📚 Focused on mobile development
 
+## Statistics:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=react&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ronnildo&show_icons=true&theme=tokyonight)
+
+
 ## Find me on:
 
  <a href="https://Ronnildo.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
@@ -31,7 +37,3 @@ Some information about me:
  <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
  <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
-## Statistics:
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=react&show_icons=true)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ronnildo&show_icons=true&theme=tokyonight)
