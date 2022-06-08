@@ -1,5 +1,6 @@
 # Hi there 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Ronnildo.Rodrigues)
+[![Github](https://img.shields.io/github/followers/Ronnildo?label=Follow&style=social)](https://github.com/Ronnildo)
 
 
 Some information about me:
