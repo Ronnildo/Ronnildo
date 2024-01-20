@@ -10,7 +10,6 @@ Some information about me:
 - ⚽ I love football
 - 💻 I’m currently learning
 - 💬 Ask me about Python and Dart
-- 📚 Focused on mobile development
 
 <!--## Repositories:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&theme=algolia&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)-->
