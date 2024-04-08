@@ -6,7 +6,7 @@
 Some information about me:
 
 - 👨‍💻 Computer science academy
-- 📈 flutter development
+- 📈 software developer
 - ⚽ I love football
 - 💻 I’m currently learning
 - 💬 Ask me about Python and Dart
