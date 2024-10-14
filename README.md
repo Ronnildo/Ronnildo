@@ -9,7 +9,7 @@ Some information about me:
 - 📈 software developer
 - ⚽ I love football
 - 💻 I’m currently learning
-- 💬 Ask me about Python, Dart and Flutter
+- 💬 Ask me about Dart and Flutter
 
 <!--## Repositories:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&theme=algolia&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)-->
